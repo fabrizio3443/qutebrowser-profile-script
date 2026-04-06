@@ -1,8 +1,8 @@
 #/bin/bash
 
 profiles=(
-	"uni:~/.config/qutebrowser-uni"
-	"fdev:~/.config/qutebrowser-fdev"
+	"uni:~/.config/qutebrowser-work" # example
+	"fdev:~/.config/qutebrowser-university" #example
 )
 
 echo "select a qutebrowser profile:"
